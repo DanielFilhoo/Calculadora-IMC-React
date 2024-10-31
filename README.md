@@ -16,9 +16,12 @@ Bem-vindo(a)! Esta é uma calculadora de IMC desenvolvida com React.js, onde voc
 
 ## Funcionalidades 👨‍💻
 
-- **Configuração de Sombra**: Ajuste de deslocamento horizontal e vertical, intensidade do borrão, intensidade do espalhamento, cor, opacidade e opção de sombra interna (inset).
-- **Visualização em Tempo Real**: O usuário pode visualizar a sombra aplicada em um quadro enquanto ajusta as configurações.
-- **Copia as Regras CSS**: Código CSS gerado pode ser copiado facilmente para uso em projetos.
+## Funcionalidades
+
+- **Entrada de Dados**: O usuário pode inserir altura e peso, com suporte para o uso de vírgula ou ponto como separador decimal.
+- **Cálculo Automático do IMC**: Ao enviar os dados, o sistema calcula o IMC e fornece o resultado.
+- **Limpeza de Dados**: O formulário pode ser facilmente limpo para uma nova entrada de dados.
+- **Tabela de Classificação**: Exibição das faixas de IMC com as respectivas classificações para referência.
 
 ## Estrutura do Projeto
 
